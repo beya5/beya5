@@ -1,9 +1,6 @@
-Voici une **version stylisée, moderne et parfaite pour GitHub**, avec badges, icônes, structure pro et touches personnalisées ✨
-Tu peux la copier directement dans ton README.md.
 
----
 
-# <img src="https://cdn-icons-png.flaticon.com/512/9131/9131529.png" width="40"/> Beya Ben Yedder
+# Beya Ben Yedder
 
 ### *Développeuse Full Stack — Spring Boot | Angular | Symfony | NodeJS*
 
