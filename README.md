@@ -108,7 +108,7 @@ MySQL
 | Langue        | Niveau         |
 | ------------- | -------------- |
 | 🇹🇳 Arabe    | Native         |
-| 🇫🇷 Français | Langue seconde |
+| 🇫🇷 Français | niveau B2 |
 | 🇬🇧 Anglais  | C1 avancé      |
 | 🇩🇪 Allemand | Débutante      |
 
